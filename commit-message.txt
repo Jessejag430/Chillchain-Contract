@@ -1,0 +1,13 @@
+feat: Add Predictive Temperature Monitor contract for supply chain optimization
+
+- Implement PredictiveTemperatureMonitor.clar with AI-powered risk assessment
+- Enable predictive temperature violation alerts based on historical route data
+- Add carrier performance profiling and route optimization recommendations
+- Include risk probability calculations and preventive action suggestions
+- Support real-time monitoring integration with temperature sensors
+- Provide comprehensive analytics for supply chain decision making
+- Update Clarinet.toml configuration for new contract integration
+
+This enhancement leverages historical data and carrier profiles to predict
+and prevent temperature violations in cold chain logistics, reducing
+product spoilage and insurance claims through proactive risk management.
